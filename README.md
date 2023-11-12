@@ -1,2 +1,2 @@
 # skyline-tech
-This table contains the student Record which allows the institute to keep track of the students.
+The table shows various information of the students with the courses offered.
