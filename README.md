@@ -1,2 +1,2 @@
 # skyline-tech
-This table contains the score of cohort 14 members examination scores and grades.
+This table contains the student Record which allows the institute to keep track of the students.
