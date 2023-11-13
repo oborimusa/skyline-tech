@@ -1,14 +1,16 @@
 table, th, td{
-    border-bottom: 1px solid;
+    border-top: 1px solid;
     border-collapse: collapse;
-    border-color: rgb(230, 227, 227)194, 191, 191); 
+    border-color: rgb(221, 218, 218);
     padding: 20px 70px;
+    
 }
 
 th{
     background-color: rgb(82, 136, 236);
     color: white;
     font-size: 20px;
+
 }
 
 caption{
@@ -18,12 +20,15 @@ caption{
     width: 50%;
     border-radius: 10px;
     margin: auto;
+    margin-bottom: 20px;
     color: white;
 }
 
 table{
     margin: auto;
+    
 }
-div{
+
+/* div{
     margin-top: 40px;
-}
+} */
